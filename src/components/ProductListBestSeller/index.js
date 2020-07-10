@@ -182,7 +182,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#eaeaeb;' }}
+                      style={{ backgroundColor: '#eaeaeb' }}
                     />
                   </label>
                 </div>
@@ -199,7 +199,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#d1dceb;' }}
+                      style={{ backgroundColor: '#d1dceb' }}
                     />
                   </label>
                 </div>
@@ -216,7 +216,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#f4e6a2;' }}
+                      style={{ backgroundColor: '#f4e6a2' }}
                     />
                   </label>
                 </div>
@@ -233,7 +233,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#f3dcff;' }}
+                      style={{ backgroundColor: '#f3dcff' }}
                     />
                   </label>
                 </div>
@@ -707,7 +707,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#97947c;' }}
+                      style={{ backgroundColor: '#97947c' }}
                     />
                   </label>
                 </div>
@@ -724,7 +724,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#99a8be;' }}
+                      style={{ backgroundColor: '#99a8be' }}
                     />
                   </label>
                 </div>
@@ -741,7 +741,7 @@ export default function ProductListBestSeller() {
                   >
                     <span
                       className="custom-option-color rounded-circle"
-                      style={{ backgroundColor: '#eaeaeb;' }}
+                      style={{ backgroundColor: '#eaeaeb' }}
                     />
                   </label>
                 </div>

@@ -24,6 +24,7 @@ import Promotion from './components/Promotion';
 import ProductListFeature from './components/ProductListFeature';
 import QuickView from './components/QuicKView';
 
+
 WebFont.load({
   google: {
     families: ['Roboto:400,400i,500,700'],

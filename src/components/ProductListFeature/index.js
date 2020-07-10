@@ -14,12 +14,12 @@ export default function ProductListFeature() {
         <div className="col-md-5">
           <div
             className="d-flex flex-column h-100 overflow-hidden rounded-lg"
-            style={{ backgroundColor: '#e2e9ef;' }}
+            style={{ backgroundColor: '#e2e9ef' }}
           >
             <div className="d-flex justify-content-between px-grid-gutter py-grid-gutter">
               <div>
                 <h3 className="mb-1">Hoodie day</h3>
-                <a className="font-size-md" href="shop-grid-ls.html">
+                <a className="font-size-md" href="shop-list.html">
                   Shop hoodies
                   <i className="czi-arrow-right font-size-xs align-middle ml-1" />
                 </a>
@@ -33,10 +33,10 @@ export default function ProductListFeature() {
                 </button>
               </div>
             </div>
-            <a className="d-none d-md-block mt-auto" href="shop-grid-ls.html">
+            <a className="d-none d-md-block mt-auto" href="shop-list.html">
               <img
                 className="d-block w-100"
-                src="img\home\categories\cat-lg04.jpg"
+                src="./img/home/categories/cat-lg04.jpg"
                 alt="For Women"
               />
             </a>

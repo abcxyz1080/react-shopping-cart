@@ -46,8 +46,7 @@ export default function Slider() {
             </div>
           </div>
         </div>
-
-        <div className="px-lg-5" style={{ backgroundColor: '#f5b1b' }}>
+        <div className="px-lg-5" style={{ backgroundColor: '#f5b1b0' }}>
           <div className="d-lg-flex justify-content-between align-items-center pl-lg-4">
             <img
               className="d-block order-lg-2 mr-lg-n5 flex-shrink-0"
@@ -79,7 +78,6 @@ export default function Slider() {
             </div>
           </div>
         </div>
-
         <div className="px-lg-5" style={{ backgroundColor: '#eba170' }}>
           <div className="d-lg-flex justify-content-between align-items-center pl-lg-4">
             <img
@@ -96,7 +94,7 @@ export default function Slider() {
                   Complete your look with
                 </h2>
                 <h1 className="text-light display-4 from-top delay-1">
-                  New Men’s Accessories
+                  New Men Accessories
                 </h1>
                 <p className="font-size-lg text-light pb-3 from-top delay-2">
                   Hats &amp; Caps, Sunglasses, Bags &amp; much more...

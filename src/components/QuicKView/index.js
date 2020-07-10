@@ -9,7 +9,7 @@ import React from 'react';
 
 export default function QuickView() {
   return (
-    <div className="modal-quick-view modal fade" id="quick-view" tabindex="-1">
+    <div className="modal-quick-view modal fade" id="quick-view" tabIndex="-1">
       <div className="modal-dialog modal-xl">
         <div className="modal-content">
           <div className="modal-header">
@@ -155,7 +155,7 @@ export default function QuickView() {
                       />
                       <label
                         className="custom-option-label rounded-circle"
-                        for="color1"
+                        htmlFor="color1"
                       >
                         <span
                           className="custom-option-color rounded-circle"
@@ -175,7 +175,7 @@ export default function QuickView() {
                       />
                       <label
                         className="custom-option-label rounded-circle"
-                        for="color2"
+                        htmlFor="color2"
                       >
                         <span
                           className="custom-option-color rounded-circle"
@@ -195,7 +195,7 @@ export default function QuickView() {
                       />
                       <label
                         className="custom-option-label rounded-circle"
-                        for="color3"
+                        htmlFor="color3"
                       >
                         <span
                           className="custom-option-color rounded-circle"
@@ -215,7 +215,7 @@ export default function QuickView() {
                     <div className="form-group">
                       <label
                         className="font-weight-medium pb-1"
-                        for="product-size"
+                        htmlFor="product-size"
                       >
                         Size:
                       </label>
